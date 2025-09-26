@@ -1,8 +1,7 @@
 # MEFN Note App
 
 A full-stack note-taking application built with Flutter (frontend) and Node.js (backend).  
-“MEFN” stands for **MongoDB + Express + Flutter + Node** (or whatever your intended meaning is).  
-
+“MEFN” stands for **MongoDB + Express + Flutter + Node**
 ## 🧩 Tech Stack
 
 | Layer      | Technology       |
@@ -46,7 +45,7 @@ cd backend
 npm install
 # or yarn install
 # Create a .env file inside backend with required variables, e.g.:
-#   PORT=5000
+#   PORT=8000
 #   DB_URI=your_database_uri
 #   JWT_SECRET=your_secret_key
 npm start
