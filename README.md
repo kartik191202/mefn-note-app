@@ -62,7 +62,7 @@ You can run on emulator, simulator or real device.
 
 Connect frontend to backend:
 
-In your Flutter code, ensure base API URLs point to your backend (like http://localhost:5000/api/...)
+In your Flutter code, ensure base API URLs point to your backend (like http://localhost:8000/api/...)
 
 If running backend and frontend on different hosts/ports, configure CORS in backend.
 
