@@ -1,7 +1,7 @@
 # MEFN Note App
 
 A full-stack note-taking application built with Flutter (frontend) and Node.js (backend).  
-“MEFN” stands for **Mobile + Express + Flutter + Node** (or whatever your intended meaning is).  
+“MEFN” stands for **MongoDB + Express + Flutter + Node** (or whatever your intended meaning is).  
 
 ## 🧩 Tech Stack
 
